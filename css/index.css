@@ -1,0 +1,76 @@
+
+body{
+	padding: 0px;
+	margin: 0px;
+}
+
+.main{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.get{
+	background: #1E5B94;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.get-title {
+    font-size: 200%;
+    border: 2px solid #fff;
+    padding: 20px;
+    display: inline-block;
+}
+
+.get-btn {
+    background: #fff;
+    font-size: 14px;
+    color: #0e90d2;
+    padding: 7px 14px;
+    text-decoration: none;
+}
+
+.am-g-3{
+	color: #7f8c8d;
+	margin-bottom: 30px;
+	width: 25%;
+	float: left;
+	padding: 10px 20px;
+	box-sizing: border-box;
+}
+
+.detail-h2{
+	text-align: center;
+	font-size: 26px;
+	margin: :40px 0px;
+}
+
+.detail-h2-span{
+	font-size: 24px;
+	font-weight:400;
+}
+
+.detail-h3{
+	color: #1f8dd6;
+	margin: 0 0 1.6rem 0;
+	font-weight:600;
+	font-size:20px;
+	box-sizing: border-box;
+}
+
+.hope{
+	background: #0bb59d;
+	padding: 50px 0;
+	box-sizing: border-box;
+}
+
+.hope-img{
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.hope-hr{
+	border-color: #149C88;
+	display: none!important;
+}
