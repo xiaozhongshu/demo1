@@ -1,12 +1,64 @@
+a{
+	 text-decoration: none;
+}
 
 body{
 	padding: 0px;
-	margin: 0px;
+	margin: 50px 0px 0px 0px;
+}
+
+.header{
+	height: 50px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	background: #ffffff;
+	border-bottom: 1px solid #dddddd	
+}
+.header-left{
+	width: 50%;
+	float: left;
+}
+.header-right{
+	width: 50%;
+	float: left;
+	text-align: center;
+}
+
+.am-topbar{
+	font-size: 18px;
+    line-height: 50px;
+    padding: 10px;
+   
+}	
+.am-topbar a{
+	color: #666;
+}
+
+.am-topbar-active{
+	color: #0e90d2 !important
+}
+
+.header-right-span{
+	width: 82px;
+	margin: 8px;
+    font-size: 14px;
+    color: #fff;
+    display: inline-block;
+    line-height: 32px;
+    background-color: #0e90d2;
+    border-color: #0e90d2;
+    cursor: pointer;
 }
 
 .main{
 	width: 1200px;
 	margin: 0 auto;
+}
+
+.overflow-hiden{
+	overflow: hidden;
 }
 
 .get{
@@ -62,15 +114,134 @@ body{
 .hope{
 	background: #0bb59d;
 	padding: 50px 0;
-	box-sizing: border-box;
+    box-sizing: border-box;
 }
+	
+ 
 
 .hope-img{
+	width: 50%;
+	float: left;
 	text-align: center;
-	box-sizing: border-box;
 }
 
-.hope-hr{
-	border-color: #149C88;
-	display: none!important;
+.hope-img img{
+	width: 286px;
+	height: 128px;
 }
+
+.hope-content{
+	width: 50%;
+	float: left;
+}
+
+.hope-title{
+	font-size: 24px;
+	margin: 0 0 1.6rem 0;
+	color: #333;	
+
+}
+
+.hope-title-span{
+	color: #333;
+}
+
+.about-title{
+	font-size: 30px;
+	color: #34495e;
+	text-align: center;
+    padding: 40px 0 50px 0;
+    margin: 0 0 1.6rem 0;
+ 	font-weight: normal; 
+    margin-top: 0px;
+}
+
+.am-g-left{
+	color: #34495e;
+}
+
+.form-left{
+	width: 50%;
+	float: left;
+	font-size: 18px;
+	color: #34495e;
+}
+
+.am-form {
+	width: 344px;
+}
+
+.am-form-about-color{
+	font-size: 18px;
+}
+
+#name{
+	width: 500px;
+	height:32px;
+	margin-bottom: 20px;
+}
+
+#email
+{
+    width: 500px;
+	height:32px;	
+	margin-bottom: 20px;
+}
+
+#message{
+    width: 500px;
+	height:47px;	
+	margin-bottom: 20px;
+}
+
+.submit{
+    width: 80px;
+    height: 32px;
+    line-height: 32px;
+    color: #fff;
+    text-align: center;
+    background-color: #0e90d2;
+}
+
+.am-g-5{
+	width: 50%;
+	float: right;
+}
+
+.am-g-5-title{
+	color: #34495e;
+	font-size: 18px;
+	margin-top: 0px;
+	font-weight: normal;
+}
+
+.about-color{
+	color: #34495e;
+	font-size: 28px;
+	margin-top: 0px;
+}
+
+.about-color-p{
+	color: #7f8c8d;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+.footer {
+	font-weight: 200;
+    background: #2d3e50;
+    margin-top: 32px
+}
+
+.footer p {
+    color: #7f8c8d;
+    margin: 0;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.footer a {
+	color: #0e90d2;
+}
+}
+
