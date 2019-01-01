@@ -1,0 +1,140 @@
+a{
+	 text-decoration: none;
+}
+
+body{
+	padding: 0px;
+	margin: 50px 0px 0px 0px;
+}
+
+.overflow-hiden{
+	overflow: hidden;
+}
+
+.header{
+	text-align: center;
+	background: #ffffff;
+	border-bottom: 1px solid #dddddd	
+}
+
+.am-g{
+	font-size: 16px;
+    color: #333;
+}
+
+.am-g-span{
+	font-size: 14px;
+	font-weight:380
+}
+
+.bottom-link{
+	border-bottom: 1px solid #dddddd
+} 
+
+.am-form {
+    color: #333;
+    font-size: 16px;
+    font-weight: 900;
+    width: 644px;
+    padding: 0px 18px;
+    box-sizing: border-box;
+    margin: 20px auto 0px auto;
+}
+
+.from-title{
+	margin-bottom: 20px;
+    padding-bottom:20px;
+
+}
+
+.truee-bottom{
+	margin-bottom: 20px;
+}
+
+#email{
+	width: 602px;
+	height:32px;
+	margin-bottom: 20px;
+}
+
+#password{
+	width: 602px;
+	height:32px;
+	margin-bottom: 20px;
+}
+
+.login{
+    width: 80px;
+    height: 32px;
+    line-height: 32px;
+    color: #fff;
+    text-align: center;
+    background-color: #0e90d2;
+}
+
+
+.am-g-1-span-1{
+	width: 80px;
+	text-align: center;
+    font-size: 14px;
+    color: #fff;
+    display: inline-block;
+    line-height: 32px;
+    background-color: #0e90d2;
+    border-color: #0e90d2;
+    cursor: pointer;
+    font-weight: 300;
+}
+
+.am-g-1-span-2{
+	width: 90px;
+	text-align: center;
+    font-size: 14px;
+    color: #fff;
+    display: inline-block;
+    line-height: 32px;
+    background-color: #5eb95e;
+    border-color: #4db14d;
+    cursor: pointer;
+    font-weight: 300;
+}
+
+.am-g-1-span-3{
+   width: 130px;
+	text-align: center;
+    font-size: 14px;
+    color: #fff;
+    display: inline-block;
+    line-height: 32px;
+    background-color: #0e90d2;
+    border-color: #0c80ba;
+    cursor: pointer;
+    font-weight: 300;
+
+}
+
+.main-buttom{
+    margin-top: 20px;
+	width: 609px;	
+}
+
+.password{
+	float: right;
+	color: #444;
+    background-color: #e6e6e6;
+    height: 32px;
+    padding:0 14px;
+    line-height: 32px;
+
+
+}
+
+.login{
+	float: left;
+}
+
+.copy{
+	font-weight: 300;
+    padding-top:20px;
+	border-top: 1px solid #dddddd;
+
